@@ -92,6 +92,10 @@ figcaption {
     width: 50%;
 }
 
+.max-height {
+    max-height: 98vh;
+}
+
 @media (max-width:1200px) {
     .menu {
         margin: 0 10rem 0 10rem;
